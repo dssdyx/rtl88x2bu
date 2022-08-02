@@ -1,3 +1,7 @@
+
+https://blog.csdn.net/banyejiu/article/details/107024572
+ifconfig find the name of usb wifi
+then iwconfig xxx(name) mode monitor
 # Administrative Note
 
 As of upstream version 5.6.1, I'm moving away from individual repositories for each upstream version in favor of a single repository with version-based branches.  Hopefully, this will help with clutter and URL consistency moving forward.  The archived repositories are available here:
